@@ -1,0 +1,27 @@
+2023/02/18-17:50:38.071 5b2 Creating DB /home/avenger047/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/02/18-17:50:38.193 5b2 Reusing MANIFEST /home/avenger047/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/18-17:50:38.526 5b2 Level-0 table #5: started
+2023/02/18-17:50:38.637 5b2 Level-0 table #5: 7197 bytes OK
+2023/02/18-17:50:38.801 5b2 Delete type=0 #3
+2023/02/18-17:50:38.801 5b2 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/18-17:50:48.705 5b3 Level-0 table #7: started
+2023/02/18-17:50:48.790 5b3 Level-0 table #7: 1198735 bytes OK
+2023/02/18-17:50:48.915 5b3 Delete type=0 #4
+2023/02/18-17:50:50.181 5b3 Level-0 table #9: started
+2023/02/18-17:50:50.252 5b3 Level-0 table #9: 971006 bytes OK
+2023/02/18-17:50:50.364 5b3 Delete type=0 #6
+2023/02/18-17:50:50.424 111d Compacting 1@0 + 1@1 files
+2023/02/18-17:50:50.529 111d Generated table #10@0: 46635 keys, 1483797 bytes
+2023/02/18-17:50:50.529 111d Compacted 1@0 + 1@1 files => 1483797 bytes
+2023/02/18-17:50:50.640 111d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/18-17:50:50.640 111d Delete type=2 #7
+2023/02/18-17:50:50.640 111d Delete type=2 #9
+2023/02/18-17:50:55.601 5b3 Level-0 table #12: started
+2023/02/18-17:50:55.668 5b3 Level-0 table #12: 955235 bytes OK
+2023/02/18-17:50:55.769 5b3 Delete type=0 #8
+2023/02/18-17:50:55.888 5b3 Compacting 1@0 + 1@1 files
+2023/02/18-17:50:56.023 5b3 Generated table #13@0: 67260 keys, 1908378 bytes
+2023/02/18-17:50:56.023 5b3 Compacted 1@0 + 1@1 files => 1908378 bytes
+2023/02/18-17:50:56.134 5b3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/18-17:50:56.134 5b3 Delete type=2 #10
+2023/02/18-17:50:56.134 5b3 Delete type=2 #12
